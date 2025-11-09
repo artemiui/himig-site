@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { BookOpen, Heart, Globe } from 'lucide-react'
+import { BookOpen, Heart, Globe, Flower } from 'lucide-react'
 import { useLanguage } from '../context/LanguageContext'
 
 const About = () => {
@@ -22,6 +22,9 @@ const About = () => {
         title: 'Our Mission',
         text: 'To make learning fun and accessible for children everywhere through the power of storytelling.',
       },
+      authors: {
+        title: 'Authors',
+      },
     },
     fil: {
       title: 'Tungkol sa HIMIG',
@@ -38,8 +41,18 @@ const About = () => {
         title: 'Ang Aming Misyon',
         text: 'Gawing masaya at naa-access ang pag-aaral para sa mga bata saanman sa pamamagitan ng kapangyarihan ng storytelling.',
       },
+      authors: {
+        title: 'Mga May-akda',
+      },
     },
   }
+
+  const authors = [
+    { name: 'LUMABAS, Paula Ysabella B.', hasFlower: true },
+    { name: 'PATUBO, Benedict M.', hasFlower: false },
+    { name: 'RABANG, Charlize Simone R.', hasFlower: false },
+    { name: 'VASCO, Maxine C.', hasFlower: false },
+  ]
 
   const t = translations[language] || translations['en']
 
@@ -123,6 +136,40 @@ const About = () => {
             {t.mission.title}
           </h2>
           <p className="font-body text-lg text-gray-600">{t.mission.text}</p>
+        </motion.div>
+
+        {/* Authors Panel */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.7 }}
+          className="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-xl mt-8"
+        >
+          <h2 className="font-title font-bold text-3xl text-gray-800 mb-6 text-center">
+            {t.authors.title}
+          </h2>
+          <div className="space-y-4">
+            {authors.map((author, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: 0.8 + index * 0.1 }}
+                className="flex items-center justify-center gap-2"
+              >
+                <span className="font-body text-lg text-gray-700">
+                  {author.name}
+                </span>
+                {author.hasFlower && (
+                  <Flower 
+                    size={20} 
+                    className="text-pink-400 opacity-20" 
+                    style={{ filter: 'drop-shadow(0 0 2px rgba(244, 114, 182, 0.4))' }}
+                  />
+                )}
+              </motion.div>
+            ))}
+          </div>
         </motion.div>
       </div>
     </div>
