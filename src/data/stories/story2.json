@@ -1,8 +1,8 @@
 {
   "id": "story2",
   "title": {
-    "en": "The Friendly Dragon",
-    "fil": "Ang Mabait na Dragon"
+    "en": "The Three Little Pigs",
+    "fil": "Ang Tatlong Biik"
   },
   "cover": "/assets/covers/story2.png",
   "voice": {
@@ -13,86 +13,146 @@
     {
       "en": [
         {
-          "text": "In a magical forest, there lived a friendly dragon named Sparkle.",
+          "text": "Once upon a time, there were three little pigs who were siblings. They decided to build their own houses so they could protect themselves from the big bad wolf who was always watching them.",
           "start": 0.0,
-          "end": 5.0
+          "end": 8.0
         },
         {
-          "text": "Unlike other dragons, Sparkle loved to help others.",
-          "start": 5.0,
-          "end": 9.5
+          "text": "The first pig was lazy and wanted to finish his house quickly. So, he used straw to build it. After finishing, he went inside and enjoyed himself.",
+          "start": 8.0,
+          "end": 14.5
         },
         {
-          "text": "One day, a little bird lost its way home.",
-          "start": 9.5,
-          "end": 13.5
+          "text": "One day, the big bad wolf came. He saw the first pig's house made of straw. He went near and said, \"Little pig, little pig, let me come in, or else I'll blow your house down!\"",
+          "start": 14.5,
+          "end": 22.0
         },
         {
-          "text": "Sparkle gently picked up the bird and flew it back to its nest.",
-          "start": 13.5,
-          "end": 19.0
+          "text": "The first pig refused, so the wolf blew as hard as he could. The straw house easily fell apart, and the first pig ran to his brother's house.",
+          "start": 22.0,
+          "end": 28.5
         },
         {
-          "text": "The bird chirped happily and thanked Sparkle.",
-          "start": 19.0,
-          "end": 23.0
+          "text": "The second pig was a bit more hardworking than the first, but he also wanted to finish quickly. So, he decided to use wood for his house. When he was done, he went inside and rested.",
+          "start": 28.5,
+          "end": 36.0
         },
         {
-          "text": "From that day on, Sparkle became the forest's best friend.",
-          "start": 23.0,
-          "end": 28.0
+          "text": "The big bad wolf soon arrived at the wooden house of the second pig. He said again, \"Little pig, little pig, let me come in, or else I'll blow your house down!\"",
+          "start": 36.0,
+          "end": 43.5
         },
         {
-          "text": "All the animals knew they could count on Sparkle for help.",
-          "start": 28.0,
-          "end": 33.0
+          "text": "The second pig refused, so the wolf blew again. The wooden house also collapsed, and the two pigs ran to their brother's house.",
+          "start": 43.5,
+          "end": 49.5
         },
         {
-          "text": "And Sparkle learned that being kind was the greatest magic of all.",
-          "start": 33.0,
-          "end": 38.5
+          "text": "The third pig was hardworking and wise. He knew that his house had to be strong so that the wolf couldn't destroy it easily.",
+          "start": 49.5,
+          "end": 56.0
+        },
+        {
+          "text": "So, he used bricks and cement to build it. It took him a long time to finish, but he was sure that his home would be sturdy.",
+          "start": 56.0,
+          "end": 62.5
+        },
+        {
+          "text": "The big bad wolf came to the third pig's house made of bricks and cement. He said, \"Little pig, little pig, let me come in, or else I'll blow your house down!\"",
+          "start": 62.5,
+          "end": 70.0
+        },
+        {
+          "text": "The third pig refused, so the wolf blew and blew. But no matter how hard he tried, the house did not fall apart.",
+          "start": 70.0,
+          "end": 76.5
+        },
+        {
+          "text": "The wolf then tried to enter through the chimney, but the third pig had placed a pot of boiling water in the fireplace.",
+          "start": 76.5,
+          "end": 82.5
+        },
+        {
+          "text": "The wolf fell in, got burned, and ran away. From then on, the three pigs lived safely and happily in their strong cement house.",
+          "start": 82.5,
+          "end": 89.0
+        },
+        {
+          "text": "They learned the importance of hard work, perseverance, and being prepared in life.",
+          "start": 89.0,
+          "end": 94.0
         }
       ],
       "fil": [
         {
-          "text": "Sa isang mahiwagang kagubatan, may nakatirang mabait na dragon na ang pangalan ay Sparkle.",
+          "text": "Noong unang panahon, may tatlong biik na magkakapatid na nagpasya na magtayo ng kanilang sariling mga bahay upang makaiwas sa masamang lobo na laging nag-aabang sa kanila.",
           "start": 0.0,
-          "end": 5.0
+          "end": 8.0
         },
         {
-          "text": "Hindi tulad ng ibang mga dragon, mahilig tumulong si Sparkle sa iba.",
-          "start": 5.0,
-          "end": 9.5
+          "text": "Ang unang biik ay tamad at gustong matapos agad ang kaniyang bahay. Kaya't gumamit siya ng dayami para sa kaniyang bahay. Matapos niyang itayo ito, agad siyang pumasok at nagpakasaya.",
+          "start": 8.0,
+          "end": 14.5
         },
         {
-          "text": "Isang araw, nawala ang isang maliit na ibon sa kanyang tahanan.",
-          "start": 9.5,
-          "end": 13.5
+          "text": "Isang araw, dumating ang masamang lobo. Nakita niya ang bahay ng unang biik na gawa sa dayami. Lumapit siya at sinabing, \"Biik, biik, papasukin mo ako, kung hindi, hihipan ko ang bahay mo!\"",
+          "start": 14.5,
+          "end": 22.0
         },
         {
-          "text": "Dahan-dahang kinuha ni Sparkle ang ibon at ibinalik ito sa kanyang pugad.",
-          "start": 13.5,
-          "end": 19.0
+          "text": "Tumanggi ang unang biik kaya't hinipan ng lobo ang bahay. Madaling nagiba ang bahay ng dayami at tumakbo ang unang biik papunta sa bahay ng kaniyang kapatid.",
+          "start": 22.0,
+          "end": 28.5
         },
         {
-          "text": "Masayang umawit ang ibon at nagpasalamat kay Sparkle.",
-          "start": 19.0,
-          "end": 23.0
+          "text": "Ang ikalawang biik ay mas masipag ng kaunti kaysa sa una, pero gusto rin niyang matapos agad. Kaya't nagdesisyon siyang gumamit ng kahoy sa pagtatayo ng kaniyang bahay. Nang matapos na ito, pumasok din siya at nag pahinga.",
+          "start": 28.5,
+          "end": 36.0
         },
         {
-          "text": "Mula noon, naging pinakamabuting kaibigan ng kagubatan si Sparkle.",
-          "start": 23.0,
-          "end": 28.0
+          "text": "Dumating na ang lobo sa bahay ng ikalawang biik na gawa sa kahoy. Sinabi rin niya, \"Biik, biik, papasukin mo ako, kung hindi, hihipan ko ang bahay mo!\"",
+          "start": 36.0,
+          "end": 43.5
         },
         {
-          "text": "Alam ng lahat ng hayop na maaari silang umasa kay Sparkle para sa tulong.",
-          "start": 28.0,
-          "end": 33.0
+          "text": "Tumanggi ang ikalawang biik kaya't hinipan ng lobo ang bahay. Nagiba rin ang bahay na kahoy at tumakbo ang dalawang biik papunta sa bahay ng kanilang kapatid.",
+          "start": 43.5,
+          "end": 49.5
         },
         {
-          "text": "At natutunan ni Sparkle na ang pagiging mabait ay ang pinakadakilang mahika.",
-          "start": 33.0,
-          "end": 38.5
+          "text": "Ang ikatlong biik ay masipag at matalino. Alam niyang kailangang matibay ang kaniyang bahay para hindi basta-basta magiba ng lobo.",
+          "start": 49.5,
+          "end": 56.0
+        },
+        {
+          "text": "Kaya't gumamit siya ng mga bato at semento sa pagtatayo ng kaniyang bahay. Matagal bago siya natapos, pero sigurado siyang matibay ang kaniyang tahanan.",
+          "start": 56.0,
+          "end": 62.5
+        },
+        {
+          "text": "Dumating ang lobo sa bahay ng ikatlong biik na gawa sa bato at semento. Sinabi niya, \"Biik, biik, papasukin mo ako, kung hindi, hihipan ko ang bahay mo!\"",
+          "start": 62.5,
+          "end": 70.0
+        },
+        {
+          "text": "Tumanggi ang ikatlong biik kaya't hinipan ng lobo ang bahay. Pero kahit anong hipo at pagsikap ng lobo, hindi magiba-giba ang bahay.",
+          "start": 70.0,
+          "end": 76.5
+        },
+        {
+          "text": "Sinubukan pa ng lobo na pumasok sa pamamagitan ng tsimenea, pero naglagay ng kumukulong tubig ang ikatlong biik sa pugon.",
+          "start": 76.5,
+          "end": 82.5
+        },
+        {
+          "text": "Nahulog ang lobo sa loob at napaso, kaya't siya ay tumakas. Mula noon, namuhay nang ligtas at masaya ang tatlong biik sa matibay na bahay na gawa sa semento.",
+          "start": 82.5,
+          "end": 89.0
+        },
+        {
+          "text": "Natutunan nila ang halaga ng pagsisikap, tiyaga, at kahandaan sa buhay.",
+          "start": 89.0,
+          "end": 94.0
         }
       ]
     }
@@ -100,37 +160,58 @@
   "quiz": [
     {
       "question": {
-        "en": "What was the dragon's name?",
-        "fil": "Ano ang pangalan ng dragon?"
+        "en": "What did the first pig use to build his house?",
+        "fil": "Ano ang ginamit ng unang biik sa pagtatayo ng kaniyang bahay?"
       },
       "options": {
-        "en": ["Fire", "Sparkle", "Flame", "Dragon"],
-        "fil": ["Apoy", "Sparkle", "Liwanag", "Dragon"]
+        "en": ["Straw", "Wood", "Bricks", "Cement"],
+        "fil": ["Dayami", "Kahoy", "Bato", "Semento"]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What did the second pig use to build his house?",
+        "fil": "Ano ang ginamit ng ikalawang biik sa pagtatayo ng kaniyang bahay?"
+      },
+      "options": {
+        "en": ["Straw", "Wood", "Bricks", "Cement"],
+        "fil": ["Dayami", "Kahoy", "Bato", "Semento"]
       },
       "answer": 1
     },
     {
       "question": {
-        "en": "What did Sparkle help?",
-        "fil": "Sino ang tinulungan ni Sparkle?"
+        "en": "What did the third pig use to build his house?",
+        "fil": "Ano ang ginamit ng ikatlong biik sa pagtatayo ng kaniyang bahay?"
       },
       "options": {
-        "en": ["A cat", "A bird", "A dog", "A rabbit"],
-        "fil": ["Isang pusa", "Isang ibon", "Isang aso", "Isang kuneho"]
-      },
-      "answer": 1
-    },
-    {
-      "question": {
-        "en": "What did Sparkle learn was the greatest magic?",
-        "fil": "Ano ang natutunan ni Sparkle na pinakadakilang mahika?"
-      },
-      "options": {
-        "en": ["Flying", "Breathing fire", "Being kind", "Being strong"],
-        "fil": ["Paglipad", "Paghinga ng apoy", "Pagiging mabait", "Pagiging malakas"]
+        "en": ["Straw", "Wood", "Bricks and cement", "Leaves"],
+        "fil": ["Dayami", "Kahoy", "Bato at semento", "Dahon"]
       },
       "answer": 2
+    },
+    {
+      "question": {
+        "en": "How did the third pig stop the wolf from entering through the chimney?",
+        "fil": "Paano pinigilan ng ikatlong biik ang lobo na pumasok sa tsimenea?"
+      },
+      "options": {
+        "en": ["He closed the chimney", "He placed boiling water in the fireplace", "He locked the door", "He built a wall"],
+        "fil": ["Sinara niya ang tsimenea", "Naglagay siya ng kumukulong tubig sa pugon", "Ikinandado niya ang pinto", "Gumawa siya ng pader"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What lesson did the three pigs learn?",
+        "fil": "Anong aral ang natutunan ng tatlong biik?"
+      },
+      "options": {
+        "en": ["Laziness is good", "Hard work and preparation are important", "Wolves are friendly", "Straw houses are strong"],
+        "fil": ["Ang katamaran ay mabuti", "Mahalaga ang pagsisikap at kahandaan", "Ang mga lobo ay mabait", "Ang mga bahay na dayami ay matibay"]
+      },
+      "answer": 1
     }
   ]
 }
-

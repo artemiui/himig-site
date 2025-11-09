@@ -1,8 +1,8 @@
 {
   "id": "story1",
   "title": {
-    "en": "The Blue Moon",
-    "fil": "Ang Asul na Buwan"
+    "en": "The Turtle and The Monkey",
+    "fil": "Si Pagong At Si Matsing"
   },
   "cover": "/assets/covers/story1.png",
   "voice": {
@@ -13,86 +13,331 @@
     {
       "en": [
         {
-          "text": "Once upon a time, there was a little star named Luna.",
+          "text": "A long time ago, there were two friends — the Monkey and the Turtle. They always shared their food together.",
           "start": 0.0,
-          "end": 4.5
+          "end": 6.0
         },
         {
-          "text": "Luna lived high up in the night sky, surrounded by twinkling friends.",
-          "start": 4.5,
-          "end": 9.2
+          "text": "One day, they saw a banana tree floating down the river. The Turtle quickly swam to get the banana tree and brought it to the shore.",
+          "start": 6.0,
+          "end": 13.0
         },
         {
-          "text": "Every night, Luna would shine her brightest light down on Earth.",
-          "start": 9.2,
-          "end": 14.0
+          "text": "They cut the tree in half and divided it between them.",
+          "start": 13.0,
+          "end": 16.5
         },
         {
-          "text": "One special evening, Luna noticed something magical happening.",
-          "start": 14.0,
-          "end": 18.5
+          "text": "\"The top part with the leaves should be mine,\" said the Monkey. He thought it would grow faster because it already had leaves. The Turtle agreed.",
+          "start": 16.5,
+          "end": 24.0
         },
         {
-          "text": "The moon began to glow with a beautiful blue light!",
-          "start": 18.5,
-          "end": 23.0
+          "text": "The Monkey planted the top part of the tree, while the Turtle planted the part with roots.",
+          "start": 24.0,
+          "end": 29.0
         },
         {
-          "text": "All the children on Earth looked up in wonder.",
-          "start": 23.0,
-          "end": 27.0
+          "text": "The Monkey's tree withered and died, but the Turtle's tree grew and later bore many bananas.",
+          "start": 29.0,
+          "end": 35.5
         },
         {
-          "text": "Luna smiled and made the blue moon shine even brighter.",
-          "start": 27.0,
-          "end": 32.0
+          "text": "One day, because the Turtle couldn't climb the banana tree, he asked the Monkey to climb it and pick the ripe bananas.",
+          "start": 35.5,
+          "end": 42.5
         },
         {
-          "text": "And that's how the blue moon became a special memory for everyone.",
-          "start": 32.0,
-          "end": 37.5
+          "text": "The Monkey agreed, and they decided to share the fruits equally.",
+          "start": 42.5,
+          "end": 46.5
+        },
+        {
+          "text": "When the Monkey climbed the tree, however, he ate all the bananas while he was up there. He didn't leave any for the Turtle.",
+          "start": 46.5,
+          "end": 53.5
+        },
+        {
+          "text": "The Turtle became very angry. He gathered many sharp thorns and stuck them all over the trunk of the banana tree. Then he quickly left.",
+          "start": 53.5,
+          "end": 61.0
+        },
+        {
+          "text": "When the Monkey came down, his body got scratched by the thorns, and he was badly hurt. He thought of getting revenge on the Turtle.",
+          "start": 61.0,
+          "end": 68.5
+        },
+        {
+          "text": "He looked for the Turtle for a long time. Finally, he found him hiding beside some chili plants.",
+          "start": 68.5,
+          "end": 74.0
+        },
+        {
+          "text": "The Monkey was about to grab the Turtle when the Turtle said, \"Be quiet! I'm guarding the sweet fruits of the King.\"",
+          "start": 74.0,
+          "end": 81.0
+        },
+        {
+          "text": "\"Give me some!\" said the Monkey.",
+          "start": 81.0,
+          "end": 83.5
+        },
+        {
+          "text": "\"Alright, I'll give you some,\" said the Turtle. \"But promise me you won't eat them until I'm far away. The King might see you and punish me.\"",
+          "start": 83.5,
+          "end": 91.5
+        },
+        {
+          "text": "The Monkey agreed. But as soon as the Turtle went away, he ate the chilies. They were so spicy that his mouth swelled up.",
+          "start": 91.5,
+          "end": 99.0
+        },
+        {
+          "text": "The Monkey again looked for the Turtle. He found him near a hole where a big python lived.",
+          "start": 99.0,
+          "end": 105.0
+        },
+        {
+          "text": "The Monkey was about to hurt the Turtle when the Turtle said, \"Friend Monkey, do you want a magical belt like the King's?\"",
+          "start": 105.0,
+          "end": 112.5
+        },
+        {
+          "text": "\"Of course I do! Where is it?\" said the Monkey.",
+          "start": 112.5,
+          "end": 115.5
+        },
+        {
+          "text": "The Turtle replied, \"I'll bring it out now. Get ready.\"",
+          "start": 115.5,
+          "end": 119.5
+        },
+        {
+          "text": "Then, the python slithered out of the hole and wrapped itself around the Monkey. The Monkey screamed as it squeezed him tightly.",
+          "start": 119.5,
+          "end": 127.0
+        },
+        {
+          "text": "He almost died, but managed to escape. He became even angrier at the Turtle.",
+          "start": 127.0,
+          "end": 132.5
+        },
+        {
+          "text": "The Turtle hid inside a shell. The Monkey, tired of searching, sat on the shell to rest.",
+          "start": 132.5,
+          "end": 138.5
+        },
+        {
+          "text": "He called out, \"Turtle, where are you?\"",
+          "start": 138.5,
+          "end": 141.0
+        },
+        {
+          "text": "The Turtle replied in a deep voice, \"I'm here!\"",
+          "start": 141.0,
+          "end": 144.5
+        },
+        {
+          "text": "The Monkey looked around but saw no one. Thinking the voice came from his stomach, he got angry and hit his belly with a stick.",
+          "start": 144.5,
+          "end": 151.5
+        },
+        {
+          "text": "Then he noticed something like a tail sticking out of the shell.",
+          "start": 151.5,
+          "end": 155.0
+        },
+        {
+          "text": "He lifted the shell and saw the sweating Turtle inside. The Turtle quickly ran away.",
+          "start": 155.0,
+          "end": 160.5
+        },
+        {
+          "text": "The Monkey chased him but fell into a trap he himself had made earlier — a pit filled with sharp sticks.",
+          "start": 160.5,
+          "end": 167.5
+        },
+        {
+          "text": "Luckily, he grabbed onto a vine and didn't fall all the way down.",
+          "start": 167.5,
+          "end": 172.0
+        },
+        {
+          "text": "\"Help me, friend Turtle. Forgive me for all I've done,\" the Monkey pleaded.",
+          "start": 172.0,
+          "end": 178.0
+        },
+        {
+          "text": "Without hesitation, the Turtle helped his friend the Monkey. They both apologized to each other and laughed together.",
+          "start": 178.0,
+          "end": 185.5
+        },
+        {
+          "text": "From that day on, they became friends again and lived happily.",
+          "start": 185.5,
+          "end": 190.0
         }
       ],
       "fil": [
         {
-          "text": "Noong unang panahon, may isang maliit na bituin na ang pangalan ay Luna.",
+          "text": "Noong unang panahon, may magkaibigan — sina Matsing at Pagong. Lagi silang nagsasalo sa pagkain.",
           "start": 0.0,
-          "end": 4.5
+          "end": 6.0
         },
         {
-          "text": "Nakatira si Luna sa taas ng kalangitan sa gabi, napapaligiran ng mga kumikislap na kaibigan.",
-          "start": 4.5,
-          "end": 9.2
+          "text": "Isang araw, nakakita sila ng puno ng saging na palutang-lutang sa sapa. Agad na lumangoy si Pagong para kunin ang puno ng saging. Dinala niya iyon sa dalampasigan.",
+          "start": 6.0,
+          "end": 13.0
         },
         {
-          "text": "Bawat gabi, nagliliwanag si Luna ng kanyang pinakamaliwanag na liwanag sa Daigdig.",
-          "start": 9.2,
-          "end": 14.0
+          "text": "Pinutol nila sa gitna ang puno at pinaghatian.",
+          "start": 13.0,
+          "end": 16.5
         },
         {
-          "text": "Isang espesyal na gabi, napansin ni Luna na may mahiwagang nangyayari.",
-          "start": 14.0,
-          "end": 18.5
+          "text": "\"Sa akin na itaas na bahagi na may dahon,\" sabi ni Matsing. Sa isip niya, mas madali itong mamumunga dahil may dahon na. Pumayag naman si Pagong.",
+          "start": 16.5,
+          "end": 24.0
         },
         {
-          "text": "Nagsimulang magliwanag ang buwan ng magandang asul na liwanag!",
-          "start": 18.5,
-          "end": 23.0
+          "text": "Itinanim ni Matsing ang itaas na bahagi ng puno. Itinanim din ni Pagong ang bahagi ng puno na may ugat.",
+          "start": 24.0,
+          "end": 29.0
         },
         {
-          "text": "Lahat ng mga bata sa Daigdig ay tumingala nang may pagkamangha.",
-          "start": 23.0,
-          "end": 27.0
+          "text": "Ang puno ni Matsing ay nalanta at namatay. Ang puno ni Pagong ay lumago, at di nagtagal, nagbunga ng maraming saging.",
+          "start": 29.0,
+          "end": 35.5
         },
         {
-          "text": "Ngumiti si Luna at ginawang mas maliwanag ang asul na buwan.",
-          "start": 27.0,
-          "end": 32.0
+          "text": "Isang araw, dahil hindi makaakyat si Pagong sa puno ng saging, kinausap niya si Matsing para pitasin ang mga hinog na saging.",
+          "start": 35.5,
+          "end": 42.5
         },
         {
-          "text": "At iyon ang naging espesyal na alaala para sa lahat.",
-          "start": 32.0,
-          "end": 37.5
+          "text": "Nagkasundo silang maghati sa mga prutas.",
+          "start": 42.5,
+          "end": 46.5
+        },
+        {
+          "text": "Umakyat na nga si Matsing sa puno. Pero kinain niya ang mga prutas habang nasa itaas. Wala siyang itinira para kay Pagong.",
+          "start": 46.5,
+          "end": 53.5
+        },
+        {
+          "text": "Nagalit si Pagong. Kumuha siya ng maraming tinik at itinusok sa katawan ng puno. Pagkatapos, dali-dali siyang umalis.",
+          "start": 53.5,
+          "end": 61.0
+        },
+        {
+          "text": "Nagkasugat-sugat ang katawan ni Matsing habang bumababa ito sa puno. Naisip niyang maghiganti kay Pagong.",
+          "start": 61.0,
+          "end": 68.5
+        },
+        {
+          "text": "Matagal hinanap ni Matsing ang nagtatagong si Pagong. Sa wakas, nakita niya ito sa tabing mga halamang sili.",
+          "start": 68.5,
+          "end": 74.0
+        },
+        {
+          "text": "Susunggaban na sana ni Matsing si Pagong nang nagsabi itong, \"Tumahimik ka! Binabantayan ko ang matatamis na prutas ng mahal na hari.\"",
+          "start": 74.0,
+          "end": 81.0
+        },
+        {
+          "text": "\"Bigyan mo ako niyan!\" sabi ni Matsing.",
+          "start": 81.0,
+          "end": 83.5
+        },
+        {
+          "text": "\"Sige, bibigyan kita,\" sabi ni Pagong. \"Pero mangako kang hindi mo ito kakainin hangga't hindi ako nakakalayo. Baka makita ka ng hari, at maparusahan ako.\"",
+          "start": 83.5,
+          "end": 91.5
+        },
+        {
+          "text": "Pumayag si Matsing. Nang malayo na si Pagong, kinain na niya ang mga sili. Sa sobrang anghang ng sili ay namaga ang kaniyang bibig.",
+          "start": 91.5,
+          "end": 99.0
+        },
+        {
+          "text": "Hinanap ni Matsing si Pagong. Hanggang sa makita rin niya ito sa tabing butas na tinitirhan ng malaking sawa.",
+          "start": 99.0,
+          "end": 105.0
+        },
+        {
+          "text": "Sasaktan na sana ni Matsing si Pagong nang sabihin nitong, \"Kaibigang Matsing, gusto mo ba ng isang mahiwagang sinturon kagaya ng sa mahal na Hari?\"",
+          "start": 105.0,
+          "end": 112.5
+        },
+        {
+          "text": "\"Oo naman, gusto ko! Nasaan!\" sagot ni Matsing.",
+          "start": 112.5,
+          "end": 115.5
+        },
+        {
+          "text": "Sumagot si Pagong, \"Ilalabas ko na. Abangan mo.\"",
+          "start": 115.5,
+          "end": 119.5
+        },
+        {
+          "text": "Agad na dinakma ni Matsing ang sawa. Pumulupot ito sa kaniyang katawan. Unti-unti siya nitong sinakal na muntik na niyang ikamatay.",
+          "start": 119.5,
+          "end": 127.0
+        },
+        {
+          "text": "Pero nakawala rin siya. Lalo pang nagalit si Matsing kay Pagong.",
+          "start": 127.0,
+          "end": 132.5
+        },
+        {
+          "text": "Nagtago si Pagong sa loob ng isang bao. Pagod na pagod na si Matsing sa kakahanap kay Pagong. Naisip niyang umupo sa bao para magpahinga.",
+          "start": 132.5,
+          "end": 138.5
+        },
+        {
+          "text": "Tinawag niya si Pagong, \"Pagong, nasaan ka?\"",
+          "start": 138.5,
+          "end": 141.0
+        },
+        {
+          "text": "Malalim ang boses nang sumagot si Pagong, \"Nandito ako!\"",
+          "start": 141.0,
+          "end": 144.5
+        },
+        {
+          "text": "Tumingin si Matsing sa paligid pero wala siyang nakita. Tinawag niyang muli si Pagong, at muli itong sumagot. Inakala ni Matsing na galing sa kaniyang tiyan ang boses.",
+          "start": 144.5,
+          "end": 151.5
+        },
+        {
+          "text": "Hindi na makapigil si Matsing. Kumuha siya ng kahoy. Nang akmang papaluin na niya ang kaniyang tiyan, may nakita siyang tila buntot ng pagong na nakaipit sa bao.",
+          "start": 151.5,
+          "end": 155.0
+        },
+        {
+          "text": "Agad niyang inangat ang bao at nakita niya ang pawisang si Pagong. Mabilis na kumilos si Pagong, hanggang sa siya ay makarating sa patibong na ginawa niya mismo para magantihan si Matsing.",
+          "start": 155.0,
+          "end": 160.5
+        },
+        {
+          "text": "Di inaasahan, nahulog siya sa patibong — isang hukay na may matutulis na kahoy. Mabuti na lang at nakahawak siya sa baging.",
+          "start": 160.5,
+          "end": 167.5
+        },
+        {
+          "text": "\"Tulungan mo ako kaibigang Matsing. Patawarin mo ako sa aking mga ginawa,\" pagmamakaawa ni Pagong.",
+          "start": 167.5,
+          "end": 172.0
+        },
+        {
+          "text": "Hindi naman nagdalawang-isip si Matsing. Agad niyang tinulungan ang kaibigang si Pagong. Humingi sila ng tawad sa isa't isa.",
+          "start": 172.0,
+          "end": 178.0
+        },
+        {
+          "text": "Mula noon, muling nagsama nang masaya ang magkaibigan.",
+          "start": 178.0,
+          "end": 190.0
         }
       ]
     }
@@ -100,37 +345,47 @@
   "quiz": [
     {
       "question": {
-        "en": "What was the name of the little star?",
-        "fil": "Ano ang pangalan ng maliit na bituin?"
+        "en": "What did the Monkey and Turtle find floating in the river?",
+        "fil": "Ano ang nakita nina Matsing at Pagong na palutang-lutang sa sapa?"
       },
       "options": {
-        "en": ["Sun", "Luna", "Star", "Moon"],
-        "fil": ["Araw", "Luna", "Bituin", "Buwan"]
+        "en": ["A coconut", "A banana tree", "A boat", "A log"],
+        "fil": ["Isang niyog", "Isang puno ng saging", "Isang bangka", "Isang troso"]
       },
       "answer": 1
     },
     {
       "question": {
-        "en": "What color did the moon glow?",
-        "fil": "Anong kulay ang nagliwanag sa buwan?"
+        "en": "Which part of the tree did the Turtle plant?",
+        "fil": "Aling bahagi ng puno ang itinanim ni Pagong?"
       },
       "options": {
-        "en": ["Yellow", "Blue", "Green", "Red"],
-        "fil": ["Dilaw", "Asul", "Berde", "Pula"]
+        "en": ["The top part with leaves", "The part with roots", "The middle part", "The whole tree"],
+        "fil": ["Ang itaas na bahagi na may dahon", "Ang bahagi na may ugat", "Ang gitnang bahagi", "Ang buong puno"]
       },
       "answer": 1
     },
     {
       "question": {
-        "en": "Where did Luna live?",
-        "fil": "Saan nakatira si Luna?"
+        "en": "What did the Turtle trick the Monkey into eating?",
+        "fil": "Ano ang nilinlang ni Pagong kay Matsing na kainin?"
       },
       "options": {
-        "en": ["On Earth", "In the ocean", "In the night sky", "In a forest"],
-        "fil": ["Sa Daigdig", "Sa karagatan", "Sa kalangitan sa gabi", "Sa kagubatan"]
+        "en": ["Sweet fruits", "Chilies", "Bananas", "A magical belt"],
+        "fil": ["Matatamis na prutas", "Mga sili", "Mga saging", "Isang mahiwagang sinturon"]
       },
-      "answer": 2
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What happened at the end of the story?",
+        "fil": "Ano ang nangyari sa katapusan ng kuwento?"
+      },
+      "options": {
+        "en": ["They became enemies forever", "They became friends again", "The Monkey got revenge", "The Turtle ran away"],
+        "fil": ["Naging magkaaway sila magpakailanman", "Muling naging magkaibigan sila", "Naghiganti si Matsing", "Tumakas si Pagong"]
+      },
+      "answer": 1
     }
   ]
 }
-
