@@ -1,0 +1,136 @@
+{
+  "id": "story2",
+  "title": {
+    "en": "The Friendly Dragon",
+    "es": "El Dragón Amigable"
+  },
+  "cover": "/assets/covers/story2.png",
+  "voice": {
+    "en": "/assets/audio/story2_en.mp3",
+    "es": "/assets/audio/story2_es.mp3"
+  },
+  "chapters": [
+    {
+      "en": [
+        {
+          "text": "In a magical forest, there lived a friendly dragon named Sparkle.",
+          "start": 0.0,
+          "end": 5.0
+        },
+        {
+          "text": "Unlike other dragons, Sparkle loved to help others.",
+          "start": 5.0,
+          "end": 9.5
+        },
+        {
+          "text": "One day, a little bird lost its way home.",
+          "start": 9.5,
+          "end": 13.5
+        },
+        {
+          "text": "Sparkle gently picked up the bird and flew it back to its nest.",
+          "start": 13.5,
+          "end": 19.0
+        },
+        {
+          "text": "The bird chirped happily and thanked Sparkle.",
+          "start": 19.0,
+          "end": 23.0
+        },
+        {
+          "text": "From that day on, Sparkle became the forest's best friend.",
+          "start": 23.0,
+          "end": 28.0
+        },
+        {
+          "text": "All the animals knew they could count on Sparkle for help.",
+          "start": 28.0,
+          "end": 33.0
+        },
+        {
+          "text": "And Sparkle learned that being kind was the greatest magic of all.",
+          "start": 33.0,
+          "end": 38.5
+        }
+      ],
+      "es": [
+        {
+          "text": "En un bosque mágico, vivía un dragón amigable llamado Sparkle.",
+          "start": 0.0,
+          "end": 5.0
+        },
+        {
+          "text": "A diferencia de otros dragones, a Sparkle le encantaba ayudar a otros.",
+          "start": 5.0,
+          "end": 9.5
+        },
+        {
+          "text": "Un día, un pequeño pájaro perdió el camino a casa.",
+          "start": 9.5,
+          "end": 13.5
+        },
+        {
+          "text": "Sparkle recogió suavemente al pájaro y lo llevó volando de vuelta a su nido.",
+          "start": 13.5,
+          "end": 19.0
+        },
+        {
+          "text": "El pájaro gorjeó felizmente y le agradeció a Sparkle.",
+          "start": 19.0,
+          "end": 23.0
+        },
+        {
+          "text": "Desde ese día, Sparkle se convirtió en el mejor amigo del bosque.",
+          "start": 23.0,
+          "end": 28.0
+        },
+        {
+          "text": "Todos los animales sabían que podían contar con Sparkle para obtener ayuda.",
+          "start": 28.0,
+          "end": 33.0
+        },
+        {
+          "text": "Y Sparkle aprendió que ser amable era la magia más grande de todas.",
+          "start": 33.0,
+          "end": 38.5
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What was the dragon's name?",
+        "es": "¿Cuál era el nombre del dragón?"
+      },
+      "options": {
+        "en": ["Fire", "Sparkle", "Flame", "Dragon"],
+        "es": ["Fuego", "Sparkle", "Llama", "Dragón"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What did Sparkle help?",
+        "es": "¿A quién ayudó Sparkle?"
+      },
+      "options": {
+        "en": ["A cat", "A bird", "A dog", "A rabbit"],
+        "es": ["Un gato", "Un pájaro", "Un perro", "Un conejo"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What did Sparkle learn was the greatest magic?",
+        "es": "¿Qué aprendió Sparkle que era la magia más grande?"
+      },
+      "options": {
+        "en": ["Flying", "Breathing fire", "Being kind", "Being strong"],
+        "es": ["Volar", "Respirar fuego", "Ser amable", "Ser fuerte"]
+      },
+      "answer": 2
+    }
+  ]
+}
+

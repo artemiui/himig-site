@@ -1,0 +1,136 @@
+{
+  "id": "story1",
+  "title": {
+    "en": "The Blue Moon",
+    "es": "La Luna Azul"
+  },
+  "cover": "/assets/covers/story1.png",
+  "voice": {
+    "en": "/assets/audio/story1_en.mp3",
+    "es": "/assets/audio/story1_es.mp3"
+  },
+  "chapters": [
+    {
+      "en": [
+        {
+          "text": "Once upon a time, there was a little star named Luna.",
+          "start": 0.0,
+          "end": 4.5
+        },
+        {
+          "text": "Luna lived high up in the night sky, surrounded by twinkling friends.",
+          "start": 4.5,
+          "end": 9.2
+        },
+        {
+          "text": "Every night, Luna would shine her brightest light down on Earth.",
+          "start": 9.2,
+          "end": 14.0
+        },
+        {
+          "text": "One special evening, Luna noticed something magical happening.",
+          "start": 14.0,
+          "end": 18.5
+        },
+        {
+          "text": "The moon began to glow with a beautiful blue light!",
+          "start": 18.5,
+          "end": 23.0
+        },
+        {
+          "text": "All the children on Earth looked up in wonder.",
+          "start": 23.0,
+          "end": 27.0
+        },
+        {
+          "text": "Luna smiled and made the blue moon shine even brighter.",
+          "start": 27.0,
+          "end": 32.0
+        },
+        {
+          "text": "And that's how the blue moon became a special memory for everyone.",
+          "start": 32.0,
+          "end": 37.5
+        }
+      ],
+      "es": [
+        {
+          "text": "Érase una vez, una pequeña estrella llamada Luna.",
+          "start": 0.0,
+          "end": 4.5
+        },
+        {
+          "text": "Luna vivía muy arriba en el cielo nocturno, rodeada de amigos brillantes.",
+          "start": 4.5,
+          "end": 9.2
+        },
+        {
+          "text": "Cada noche, Luna brillaba con su luz más brillante sobre la Tierra.",
+          "start": 9.2,
+          "end": 14.0
+        },
+        {
+          "text": "Una noche especial, Luna notó que algo mágico estaba sucediendo.",
+          "start": 14.0,
+          "end": 18.5
+        },
+        {
+          "text": "¡La luna comenzó a brillar con una hermosa luz azul!",
+          "start": 18.5,
+          "end": 23.0
+        },
+        {
+          "text": "Todos los niños en la Tierra miraron hacia arriba con asombro.",
+          "start": 23.0,
+          "end": 27.0
+        },
+        {
+          "text": "Luna sonrió e hizo que la luna azul brillara aún más.",
+          "start": 27.0,
+          "end": 32.0
+        },
+        {
+          "text": "Y así fue como la luna azul se convirtió en un recuerdo especial para todos.",
+          "start": 32.0,
+          "end": 37.5
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What was the name of the little star?",
+        "es": "¿Cuál era el nombre de la pequeña estrella?"
+      },
+      "options": {
+        "en": ["Sun", "Luna", "Star", "Moon"],
+        "es": ["Sol", "Luna", "Estrella", "Luna"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What color did the moon glow?",
+        "es": "¿De qué color brillaba la luna?"
+      },
+      "options": {
+        "en": ["Yellow", "Blue", "Green", "Red"],
+        "es": ["Amarillo", "Azul", "Verde", "Rojo"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where did Luna live?",
+        "es": "¿Dónde vivía Luna?"
+      },
+      "options": {
+        "en": ["On Earth", "In the ocean", "In the night sky", "In a forest"],
+        "es": ["En la Tierra", "En el océano", "En el cielo nocturno", "En un bosque"]
+      },
+      "answer": 2
+    }
+  ]
+}
+

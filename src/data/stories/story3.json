@@ -1,0 +1,10 @@
+{
+  "id": "story3",
+  "title": {
+    "en": "Coming Soon",
+    "es": "Próximamente"
+  },
+  "cover": "/assets/covers/story3.png",
+  "comingSoon": true
+}
+
