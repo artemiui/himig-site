@@ -16,7 +16,7 @@ const LanguageToggle = () => {
     >
       <Languages size={18} className="text-sky-blue" />
       <span className="font-title font-semibold text-sky-blue">
-        {language === 'en' ? 'EN' : 'ES'}
+        {language === 'en' ? 'EN' : 'FIL'}
       </span>
     </motion.button>
   )

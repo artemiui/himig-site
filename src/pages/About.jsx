@@ -23,25 +23,25 @@ const About = () => {
         text: 'To make learning fun and accessible for children everywhere through the power of storytelling.',
       },
     },
-    es: {
-      title: 'Acerca de HIMIG',
-      subtitle: 'Historias Mágicas para Niños',
-      description: 'HIMIG es una plataforma de narración interactiva diseñada para inspirar y educar a los niños a través de historias atractivas y quizzes divertidos.',
+    fil: {
+      title: 'Tungkol sa HIMIG',
+      subtitle: 'Mga Mahiwagang Kuwento para sa mga Bata',
+      description: 'Ang HIMIG ay isang interactive na storytelling platform na idinisenyo upang magbigay-inspirasyon at magturo sa mga bata sa pamamagitan ng nakakaengganyong kuwento at masayang mga pagsusulit.',
       features: {
-        title: 'Características',
-        storyMode: 'Modo Historia - Lee junto con narración sincronizada',
-        quizMode: 'Modo Quiz - Pon a prueba tu comprensión con quizzes interactivos',
-        multilingual: 'Soporte Multilingüe - Disponible en múltiples idiomas',
-        colorful: 'Diseño Colorido - Experiencia visual brillante y atractiva',
+        title: 'Mga Tampok',
+        storyMode: 'Story Mode - Magbasa kasama ng synchronized na pagbabasa',
+        quizMode: 'Quiz Mode - Subukan ang iyong pag-unawa sa interactive na mga pagsusulit',
+        multilingual: 'Suporta sa Maraming Wika - Available sa maraming wika',
+        colorful: 'Makulay na Disenyo - Maliwanag at nakakaengganyong visual na karanasan',
       },
       mission: {
-        title: 'Nuestra Misión',
-        text: 'Hacer que el aprendizaje sea divertido y accesible para los niños en todas partes a través del poder de la narración.',
+        title: 'Ang Aming Misyon',
+        text: 'Gawing masaya at naa-access ang pag-aaral para sa mga bata saanman sa pamamagitan ng kapangyarihan ng storytelling.',
       },
     },
   }
 
-  const t = translations[language]
+  const t = translations[language] || translations['en']
 
   return (
     <div className="min-h-screen py-8 px-4">

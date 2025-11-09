@@ -18,15 +18,15 @@ const Header = () => {
       about: 'About',
       search: 'Search stories...',
     },
-    es: {
-      home: 'Inicio',
-      stories: 'Historias',
-      about: 'Acerca de',
-      search: 'Buscar historias...',
+    fil: {
+      home: 'Home',
+      stories: 'Mga Kuwento',
+      about: 'Tungkol',
+      search: 'Maghanap ng kuwento...',
     },
   }
 
-  const t = translations[language]
+  const t = translations[language] || translations['en']
 
   const navItems = [
     { path: '/', label: t.home },

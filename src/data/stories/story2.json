@@ -2,12 +2,12 @@
   "id": "story2",
   "title": {
     "en": "The Friendly Dragon",
-    "es": "El Dragón Amigable"
+    "fil": "Ang Mabait na Dragon"
   },
   "cover": "/assets/covers/story2.png",
   "voice": {
     "en": "/assets/audio/story2_en.mp3",
-    "es": "/assets/audio/story2_es.mp3"
+    "fil": "/assets/audio/story2_fil.mp3"
   },
   "chapters": [
     {
@@ -53,44 +53,44 @@
           "end": 38.5
         }
       ],
-      "es": [
+      "fil": [
         {
-          "text": "En un bosque mágico, vivía un dragón amigable llamado Sparkle.",
+          "text": "Sa isang mahiwagang kagubatan, may nakatirang mabait na dragon na ang pangalan ay Sparkle.",
           "start": 0.0,
           "end": 5.0
         },
         {
-          "text": "A diferencia de otros dragones, a Sparkle le encantaba ayudar a otros.",
+          "text": "Hindi tulad ng ibang mga dragon, mahilig tumulong si Sparkle sa iba.",
           "start": 5.0,
           "end": 9.5
         },
         {
-          "text": "Un día, un pequeño pájaro perdió el camino a casa.",
+          "text": "Isang araw, nawala ang isang maliit na ibon sa kanyang tahanan.",
           "start": 9.5,
           "end": 13.5
         },
         {
-          "text": "Sparkle recogió suavemente al pájaro y lo llevó volando de vuelta a su nido.",
+          "text": "Dahan-dahang kinuha ni Sparkle ang ibon at ibinalik ito sa kanyang pugad.",
           "start": 13.5,
           "end": 19.0
         },
         {
-          "text": "El pájaro gorjeó felizmente y le agradeció a Sparkle.",
+          "text": "Masayang umawit ang ibon at nagpasalamat kay Sparkle.",
           "start": 19.0,
           "end": 23.0
         },
         {
-          "text": "Desde ese día, Sparkle se convirtió en el mejor amigo del bosque.",
+          "text": "Mula noon, naging pinakamabuting kaibigan ng kagubatan si Sparkle.",
           "start": 23.0,
           "end": 28.0
         },
         {
-          "text": "Todos los animales sabían que podían contar con Sparkle para obtener ayuda.",
+          "text": "Alam ng lahat ng hayop na maaari silang umasa kay Sparkle para sa tulong.",
           "start": 28.0,
           "end": 33.0
         },
         {
-          "text": "Y Sparkle aprendió que ser amable era la magia más grande de todas.",
+          "text": "At natutunan ni Sparkle na ang pagiging mabait ay ang pinakadakilang mahika.",
           "start": 33.0,
           "end": 38.5
         }
@@ -101,33 +101,33 @@
     {
       "question": {
         "en": "What was the dragon's name?",
-        "es": "¿Cuál era el nombre del dragón?"
+        "fil": "Ano ang pangalan ng dragon?"
       },
       "options": {
         "en": ["Fire", "Sparkle", "Flame", "Dragon"],
-        "es": ["Fuego", "Sparkle", "Llama", "Dragón"]
+        "fil": ["Apoy", "Sparkle", "Liwanag", "Dragon"]
       },
       "answer": 1
     },
     {
       "question": {
         "en": "What did Sparkle help?",
-        "es": "¿A quién ayudó Sparkle?"
+        "fil": "Sino ang tinulungan ni Sparkle?"
       },
       "options": {
         "en": ["A cat", "A bird", "A dog", "A rabbit"],
-        "es": ["Un gato", "Un pájaro", "Un perro", "Un conejo"]
+        "fil": ["Isang pusa", "Isang ibon", "Isang aso", "Isang kuneho"]
       },
       "answer": 1
     },
     {
       "question": {
         "en": "What did Sparkle learn was the greatest magic?",
-        "es": "¿Qué aprendió Sparkle que era la magia más grande?"
+        "fil": "Ano ang natutunan ni Sparkle na pinakadakilang mahika?"
       },
       "options": {
         "en": ["Flying", "Breathing fire", "Being kind", "Being strong"],
-        "es": ["Volar", "Respirar fuego", "Ser amable", "Ser fuerte"]
+        "fil": ["Paglipad", "Paghinga ng apoy", "Pagiging mabait", "Pagiging malakas"]
       },
       "answer": 2
     }

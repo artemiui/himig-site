@@ -12,7 +12,12 @@ export const useLanguage = () => {
 
 export const LanguageProvider = ({ children }) => {
   const [language, setLanguage] = useState(() => {
-    return localStorage.getItem('language') || 'en'
+    const stored = localStorage.getItem('language')
+    // Convert old 'es' to 'fil' if it exists
+    if (stored === 'es') {
+      return 'fil'
+    }
+    return stored || 'en'
   })
 
   useEffect(() => {
@@ -20,7 +25,7 @@ export const LanguageProvider = ({ children }) => {
   }, [language])
 
   const toggleLanguage = () => {
-    setLanguage(prev => prev === 'en' ? 'es' : 'en')
+    setLanguage(prev => prev === 'en' ? 'fil' : 'en')
   }
 
   return (

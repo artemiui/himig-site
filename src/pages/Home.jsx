@@ -23,14 +23,14 @@ const Home = () => {
       subtitle: 'Magical Stories for Children',
       description: 'Explore wonderful stories and test your knowledge with fun quizzes!',
     },
-    es: {
-      title: 'Bienvenido a HIMIG',
-      subtitle: 'Historias Mágicas para Niños',
-      description: '¡Explora historias maravillosas y pon a prueba tus conocimientos con divertidos quizzes!',
+    fil: {
+      title: 'Maligayang Pagdating sa HIMIG',
+      subtitle: 'Mga Mahiwagang Kuwento para sa mga Bata',
+      description: 'Tuklasin ang mga kahanga-hangang kuwento at subukan ang iyong kaalaman sa masayang mga pagsusulit!',
     },
   }
 
-  const t = translations[language]
+  const t = translations[language] || translations['en']
 
   return (
     <div className="min-h-screen py-8 px-4">

@@ -31,12 +31,12 @@ const Stories = () => {
     en: {
       back: 'Back to Stories',
     },
-    es: {
-      back: 'Volver a Historias',
+    fil: {
+      back: 'Bumalik sa Mga Kuwento',
     },
   }
 
-  const t = translations[language]
+  const t = translations[language] || translations['en']
 
   if (loading) {
     return (

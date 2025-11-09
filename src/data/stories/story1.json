@@ -2,12 +2,12 @@
   "id": "story1",
   "title": {
     "en": "The Blue Moon",
-    "es": "La Luna Azul"
+    "fil": "Ang Asul na Buwan"
   },
   "cover": "/assets/covers/story1.png",
   "voice": {
     "en": "/assets/audio/story1_en.mp3",
-    "es": "/assets/audio/story1_es.mp3"
+    "fil": "/assets/audio/story1_fil.mp3"
   },
   "chapters": [
     {
@@ -53,44 +53,44 @@
           "end": 37.5
         }
       ],
-      "es": [
+      "fil": [
         {
-          "text": "Érase una vez, una pequeña estrella llamada Luna.",
+          "text": "Noong unang panahon, may isang maliit na bituin na ang pangalan ay Luna.",
           "start": 0.0,
           "end": 4.5
         },
         {
-          "text": "Luna vivía muy arriba en el cielo nocturno, rodeada de amigos brillantes.",
+          "text": "Nakatira si Luna sa taas ng kalangitan sa gabi, napapaligiran ng mga kumikislap na kaibigan.",
           "start": 4.5,
           "end": 9.2
         },
         {
-          "text": "Cada noche, Luna brillaba con su luz más brillante sobre la Tierra.",
+          "text": "Bawat gabi, nagliliwanag si Luna ng kanyang pinakamaliwanag na liwanag sa Daigdig.",
           "start": 9.2,
           "end": 14.0
         },
         {
-          "text": "Una noche especial, Luna notó que algo mágico estaba sucediendo.",
+          "text": "Isang espesyal na gabi, napansin ni Luna na may mahiwagang nangyayari.",
           "start": 14.0,
           "end": 18.5
         },
         {
-          "text": "¡La luna comenzó a brillar con una hermosa luz azul!",
+          "text": "Nagsimulang magliwanag ang buwan ng magandang asul na liwanag!",
           "start": 18.5,
           "end": 23.0
         },
         {
-          "text": "Todos los niños en la Tierra miraron hacia arriba con asombro.",
+          "text": "Lahat ng mga bata sa Daigdig ay tumingala nang may pagkamangha.",
           "start": 23.0,
           "end": 27.0
         },
         {
-          "text": "Luna sonrió e hizo que la luna azul brillara aún más.",
+          "text": "Ngumiti si Luna at ginawang mas maliwanag ang asul na buwan.",
           "start": 27.0,
           "end": 32.0
         },
         {
-          "text": "Y así fue como la luna azul se convirtió en un recuerdo especial para todos.",
+          "text": "At iyon ang naging espesyal na alaala para sa lahat.",
           "start": 32.0,
           "end": 37.5
         }
@@ -101,33 +101,33 @@
     {
       "question": {
         "en": "What was the name of the little star?",
-        "es": "¿Cuál era el nombre de la pequeña estrella?"
+        "fil": "Ano ang pangalan ng maliit na bituin?"
       },
       "options": {
         "en": ["Sun", "Luna", "Star", "Moon"],
-        "es": ["Sol", "Luna", "Estrella", "Luna"]
+        "fil": ["Araw", "Luna", "Bituin", "Buwan"]
       },
       "answer": 1
     },
     {
       "question": {
         "en": "What color did the moon glow?",
-        "es": "¿De qué color brillaba la luna?"
+        "fil": "Anong kulay ang nagliwanag sa buwan?"
       },
       "options": {
         "en": ["Yellow", "Blue", "Green", "Red"],
-        "es": ["Amarillo", "Azul", "Verde", "Rojo"]
+        "fil": ["Dilaw", "Asul", "Berde", "Pula"]
       },
       "answer": 1
     },
     {
       "question": {
         "en": "Where did Luna live?",
-        "es": "¿Dónde vivía Luna?"
+        "fil": "Saan nakatira si Luna?"
       },
       "options": {
         "en": ["On Earth", "In the ocean", "In the night sky", "In a forest"],
-        "es": ["En la Tierra", "En el océano", "En el cielo nocturno", "En un bosque"]
+        "fil": ["Sa Daigdig", "Sa karagatan", "Sa kalangitan sa gabi", "Sa kagubatan"]
       },
       "answer": 2
     }

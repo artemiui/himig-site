@@ -11,7 +11,7 @@ const StoryReader = ({ story }) => {
   const containerRef = useRef(null)
 
   const chapters = story?.chapters || []
-  const segments = chapters.flatMap((chapter) => chapter[language] || [])
+  const segments = chapters.flatMap((chapter) => chapter[language] || chapter['en'] || [])
 
   const handleTimeUpdate = (currentTime) => {
     const activeSegment = segments.find(
@@ -57,7 +57,7 @@ const StoryReader = ({ story }) => {
     )
   }
 
-  const audioSrc = story.voice?.[language]
+  const audioSrc = story.voice?.[language] || story.voice?.['en']
 
   return (
     <div className="max-w-4xl mx-auto">
@@ -67,7 +67,7 @@ const StoryReader = ({ story }) => {
         className="mb-8"
       >
         <h1 className="font-title font-bold text-4xl text-center text-gray-800 mb-4">
-          {story.title[language]}
+          {story.title[language] || story.title['en']}
         </h1>
       </motion.div>
 

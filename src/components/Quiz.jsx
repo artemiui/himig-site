@@ -86,13 +86,13 @@ const Quiz = ({ story }) => {
             <Sparkles size={64} className="text-sunshine-yellow mx-auto mb-4" />
           </motion.div>
           <h2 className="font-title font-bold text-3xl text-gray-800 mb-4">
-            {language === 'en' ? 'Quiz Complete!' : '¡Quiz Completado!'}
+            {language === 'en' ? 'Quiz Complete!' : 'Tapos na ang Quiz!'}
           </h2>
           <p className="text-2xl font-semibold text-gray-700 mb-2">
             {score} / {quiz.length}
           </p>
           <p className="text-lg text-gray-600 mb-6">
-            {percentage}% {language === 'en' ? 'Correct' : 'Correcto'}
+            {percentage}% {language === 'en' ? 'Correct' : 'Tama'}
           </p>
           <motion.button
             onClick={handleRestart}
@@ -100,7 +100,7 @@ const Quiz = ({ story }) => {
             whileTap={{ scale: 0.95 }}
             className="bg-sky-blue text-white px-8 py-3 rounded-full font-title font-semibold shadow-lg hover:shadow-xl transition-shadow"
           >
-            {language === 'en' ? 'Try Again' : 'Intentar de Nuevo'}
+            {language === 'en' ? 'Try Again' : 'Subukan Muli'}
           </motion.button>
         </div>
       </motion.div>
@@ -121,10 +121,10 @@ const Quiz = ({ story }) => {
         <div className="mb-6">
           <div className="flex justify-between text-sm text-gray-600 mb-2">
             <span>
-              {language === 'en' ? 'Question' : 'Pregunta'} {currentQuestionIndex + 1} / {quiz.length}
+              {language === 'en' ? 'Question' : 'Tanong'} {currentQuestionIndex + 1} / {quiz.length}
             </span>
             <span>
-              {language === 'en' ? 'Score' : 'Puntuación'}: {score}
+              {language === 'en' ? 'Score' : 'Puntos'}: {score}
             </span>
           </div>
           <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
@@ -141,12 +141,12 @@ const Quiz = ({ story }) => {
 
         {/* Question */}
         <h2 className="font-title font-bold text-2xl text-gray-800 mb-6">
-          {currentQuestion.question[language]}
+          {currentQuestion.question[language] || currentQuestion.question['en']}
         </h2>
 
         {/* Answers */}
         <div className="space-y-3 mb-6">
-          {currentQuestion.options[language].map((option, index) => {
+          {(currentQuestion.options[language] || currentQuestion.options['en'] || []).map((option, index) => {
             const isSelected = selectedAnswer === index
             const showCorrect = showFeedback && index === currentQuestion.answer
             const showIncorrect = showFeedback && isSelected && !isCorrect
@@ -224,10 +224,10 @@ const Quiz = ({ story }) => {
               {currentQuestionIndex < quiz.length - 1
                 ? language === 'en'
                   ? 'Next Question'
-                  : 'Siguiente Pregunta'
+                  : 'Susunod na Tanong'
                 : language === 'en'
                 ? 'Finish Quiz'
-                : 'Finalizar Quiz'}
+                : 'Tapusin ang Quiz'}
             </motion.button>
           </motion.div>
         )}
