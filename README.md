@@ -14,6 +14,7 @@ Welcome to HIMIG, an interactive storytelling platform designed to inspire and e
 Ensure you have the following installed:
 - Node.js (v16 or higher)
 - npm (v8 or higher)
+Installation guide [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### Steps
 1. Clone the repository:
