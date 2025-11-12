@@ -49,7 +49,7 @@ const About = () => {
 
   const authors = [
     { name: 'LUMABAS, Paula Ysabella B.', hasFlower: true },
-    { name: 'PATUBO, Benedict M.', hasFlower: false },
+    { name: 'PATUBO, Benidict M.', hasFlower: false },
     { name: 'RABANG, Charlize Simone R.', hasFlower: false },
     { name: 'VASCO, Maxine C.', hasFlower: false },
   ]
